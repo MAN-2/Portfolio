@@ -9,7 +9,7 @@ const Projects = () => {
   const projects = [
     {
       title: "Dhaani: AI-Powered Smart Clinic Assistant",
-      description: "Natural-language appointment scheduler with full CRUD for doctors. Integrated LLM API to parse commands and return Google Calendar links with confirmation emails.",
+      description: "Natural-language appointment scheduler with full CRUD for doctors. Integrated LLM Orchestrator to parse commands , select from 10+ tools and return outputs such as  Google Calendar links with confirmation emails. Live Demo deployed on Vercel.",
       technologies: ["FastAPI", "LangChain", "PostgreSQL", "React"],
       links: {
         demo: "https://dhaani-demo.vercel.app/"
@@ -70,7 +70,7 @@ const Projects = () => {
     },
     {
       title: "Krishi Saarthi : AI Powered Plant Disease Detector",
-      description: "Streamlit-based web app that detects plant leaf diseases using a trained deep learning model.",
+      description: "Streamlit-based web app that detects plant leaf diseases using a trained deep learning model. Live Demo deployed on Streamlit.",
       technologies: ["Streamlit", "Deep Learning ", "Tensorflow"],
       links: {
        demo: "https://krishi-saarthi.streamlit.app/",
