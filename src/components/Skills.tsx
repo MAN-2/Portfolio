@@ -25,7 +25,7 @@ const Skills = () => {
 
   const certifications = [
     {
-      title: " 7x NPTEL-IIT Certifications",
+      title: " 7x NPTEL-IIT Certifications https://shorturl.at/A4s7t",
       items: [{text:"AI, ML, Deep Learning, Big Data, Embedded Systems (via SWAYAM)" ,
       img:  "https://i.postimg.cc/zfdS72B1/gen-ai.jpg?w=400&h=250&fit=crop&auto=format"}],
 
