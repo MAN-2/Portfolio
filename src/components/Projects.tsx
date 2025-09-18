@@ -31,6 +31,18 @@ const Projects = () => {
       image: "https://i.postimg.cc/mrrPMDN2/Screenshot-2025-08-23-232535.jpg?w=400&h=100&fit=crop&auto=format"
     },
     {
+      title: "CleverCounts AI : Real-time business intelligence and KPI monitoring",
+      description: "AI-powered BI system with real-time Google Sheets sync handling over 20 + clients , LLM chatbot for KPI queries, and automated client communication workflows integration with Gmail",
+      technologies: ["Automation", "N8N", "AI Workflow"],
+      links: {
+        demo: "https://holo-kpi-matrix.lovable.app/"
+      },
+      status: "Completed",
+      category: "AI/Career",
+      image: "https://i.postimg.cc/pLBG5w3j/Gemini-Generated-Image-81ag4z81ag4z81ag.png?w=400&h=100&fit=crop&auto=format"
+    },
+
+    {
       title: "Home Automation System using CNN and Deep Lerning",
       description: "An Deep Learning powered smart home system that uses CNN-based face recognition, IoT sensors, and deep learning  model to automate appliances, detect intrusions, and improve energy efficiency.",
       technologies: ["CNN", "IOT", "Arduino"],
