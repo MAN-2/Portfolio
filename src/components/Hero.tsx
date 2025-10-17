@@ -26,8 +26,8 @@ const Hero = () => {
           </div>
           
           <p className="text-lg text-foreground/80 max-w-lg leading-relaxed animate-fade-in" style={{ animationDelay: '0.4s' }}>
-            Recent B.Tech graduate with hands-on experience in Robotics, AI/ML pipelines, Deep learning, 
-            and LLM-based agent systems. Skilled in building production-ready software using FastAPI, ROS 2, and Python.
+            I build intelligent automation systems that connect AI agents, APIs, and robotics — turning complex workflows into smart, autonomous pipelines.
+
           </p>
 
           <div className="flex flex-wrap gap-4 animate-fade-in" style={{ animationDelay: '0.6s' }}>
