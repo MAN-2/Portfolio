@@ -7,6 +7,19 @@ import { useEffect, useRef } from "react";
 
 const Projects = () => {
   const projects = [
+
+     {
+      title: "AI Voice Agent- Real Time Conversation",
+      description: "Built a real-time browser native Voice AI agent with full duplex speech interaction , barge-in handling and explicit conversational state management developed using Whisper , Edge TTS and Groq LLM pipeline.",
+      technologies: ["Whisper", "EdgeTTS", "FastAPI", "Groq LLM"],
+      links: {
+        demo: "https://www.linkedin.com/posts/manu-tyagi-b98b83259_voiceai-conversationalai-voiceagents-activity-7404461391904219137-aj8k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-2NuQBFyMW8yQQJBgytdcYKfoEbQI_lu8"
+        
+      },
+      status: "Completed",
+      category: "AI/Career",
+      image: "https://i.postimg.cc/N0jHKXnk/Screenshot-2025-12-10-153449.jpg?w=400&h=250&fit=crop&auto=format"
+    },
     {
       title: "Dhaani: AI-Powered Smart Clinic Assistant",
       description: "Natural-language appointment scheduler with full CRUD for doctors. Integrated LLM Orchestrator to parse commands , select from 10+ tools and return outputs such as  Google Calendar links with confirmation emails. Live Demo deployed on Vercel.",
