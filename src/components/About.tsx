@@ -4,11 +4,7 @@ import { Bot, Brain, Code, Zap } from "lucide-react";
 
 const About = () => {
   const highlights = [
-    {
-      icon: Bot,
-      title: "Robotics Expertise",
-      description: "Production-ready software using ROS 2, automation systems, and industrial robotics solutions."
-    },
+    
     {
       icon: Brain,
       title: "AI/ML Development",
@@ -18,6 +14,11 @@ const About = () => {
       icon: Code,
       title: "Software Engineering",
       description: "FastAPI, Python, full-stack development with focus on scalable and maintainable code."
+    },
+    {
+      icon: Bot,
+      title: "Robotics Expertise",
+      description: "Production-ready software using ROS 2, automation systems, and industrial robotics solutions."
     },
     {
       icon: Zap,
@@ -32,7 +33,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            I'm Manu Tyagi, a passionate Robotics Software Engineer with expertise in AI/ML development and a strong foundation in automation systems.
+           I’m Manu Tyagi, an AI/ML-focused software engineer with hands-on experience in building intelligent systems, leveraging machine learning, deep learning, and automation to solve real-world problems.
           </p>
         </div>
 
@@ -69,7 +70,7 @@ const About = () => {
             <div>
               <h3 className="text-xl font-semibold mb-4">Technical Interests</h3>
               <p className="text-muted-foreground mb-4">
-                Passionate about robotics automation, deep learning applications, and building intelligent systems that solve real-world problems.
+                Passionate about automation, deep learning applications, and building intelligent systems that solve real-world problems.
               </p>
               <div className="flex flex-wrap gap-2">
                 <Badge variant="secondary">Deep Learning</Badge>
