@@ -21,7 +21,7 @@ const Hero = () => {
               Manu Tyagi
             </h1>
             <p className="text-xl text-muted-foreground max-w-md animate-fade-in" style={{ animationDelay: '0.2s' }}>
-              Robotics Software Engineer | AI/ML Developer | ROS 2 | Deep Learning | LLM
+             AI/ML Developer | GenAI | Deep Learning | LLM
             </p>
           </div>
           
