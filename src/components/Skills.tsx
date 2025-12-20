@@ -10,8 +10,8 @@ const Skills = () => {
       skills: ["Python", "C/C++",  "SQL", "MATLAB"],
     },
     {
-      title: "AI/ML & Robotics",
-      skills: ["ROS", "Deep Learning", "LangChain", "Computer Vision", "NLP"],
+      title: "AI/ML",
+      skills: ["Agentic AI", "Deep Learning", "LangChain", "RAG", "NLP"],
     },
     {
       title: "Frameworks & Tools",
@@ -19,7 +19,7 @@ const Skills = () => {
     },
     {
       title: "Specialized Skills",
-      skills: ["SLAM", "Gazebo", "RViz", "MoveIt", "URDF", "Streamlit"],
+      skills: ["N8N", "Voice AI" , "GenAI" , "Streamlit"],
     },
   ];
 
